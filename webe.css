@@ -1,0 +1,26 @@
+html,body{
+width:100%;
+min-height:100%;
+padding:0;
+margin:0;
+}
+
+
+section {
+text-align:center;
+padding:200px 0;
+background-color:#FAEBD7;
+margin:0;
+}
+h{
+font-size:100px;
+	
+}
+p{
+border:12px;
+font-size:14px;
+font-family:arial;
+max-width:500px;
+margin:auto;
+}
+
